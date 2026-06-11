@@ -1,3 +1,2 @@
-
-lit f1 15
-call alloc f1
+STR F1 "Hello, World!"
+call io.println
